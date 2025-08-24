@@ -1,0 +1,1 @@
+This tool helps you determine your effective pay per hour by factoring in your total working hours, number of days off, and other relevant details. Whether you're tracking freelance gigs, shift-based work, or salaried roles, it gives you a clear picture of how your time translates into earnings.

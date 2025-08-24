@@ -1,5 +1,5 @@
 document.getElementById("submit").addEventListener("click", function (e) {
-    e.preventDefault(); // Prevent form submission and page reload
+    e.preventDefault();
 
     let annualSalary = Number(document.getElementById("pckg").value);
     let workingHours = Number(document.getElementById("wkhrs").value);
